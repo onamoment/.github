@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://onamoment.com/">
-    <img src="./assets/og-image.jpg" alt="Óna — feel better in one minute" width="1200">
+    <img src="./assets/Ona.jpg" alt="Óna — feel better in one minute" width="1280">
   </a>
 </p>
 
@@ -32,4 +32,3 @@
 Óna is being designed for iPhone, Apple Watch and Android, with Apple Health integration.
 
 For general enquiries, email [hello@onamoment.com](mailto:hello@onamoment.com).
-
